@@ -4,6 +4,16 @@ A full-stack education loan evaluation platform built with **Next.js**, **NestJS
 
 ---
 
+# Live Demo
+
+Frontend:
+> https://edu-loan-tau.vercel.app/
+
+Backend API:
+> https://edu-loan.onrender.com/
+
+---
+
 ## Screenshots
 
 ### Landing Page
